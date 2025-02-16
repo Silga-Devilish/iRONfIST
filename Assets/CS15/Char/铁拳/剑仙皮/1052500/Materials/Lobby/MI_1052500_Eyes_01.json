@@ -1,0 +1,92 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Marvel/Content/Marvel/Characters/Common/Textures/Eyes/T_EyeSclera_02_D.T_EyeSclera_02_D",
+    "IrisBaseColor": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Eyes_01_D.T_1052500_Eyes_01_D",
+    "IrisBaseAO": "Marvel/Content/Marvel/Characters/Common/Textures/Eyes/T_Iris001_01_AO.T_Iris001_01_AO",
+    "T_Iris001_01_AO": "Marvel/Content/Marvel/Characters/Common/Textures/Eyes/T_Iris001_01_AO.T_Iris001_01_AO",
+    "ScleraBaseColor": "Marvel/Content/Marvel/Characters/Common/Textures/Eyes/T_EyeSclera_02_D.T_EyeSclera_02_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "IrisBleedTint": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "ScleraTint": {
+        "R": 0.703125,
+        "G": 0.703125,
+        "B": 0.703125,
+        "A": 1.0,
+        "Hex": "DBDBDB"
+      },
+      "MC_Shade_0": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.8,
+        "Hex": "CCFFFFFF"
+      },
+      "MC_Shade_1": {
+        "R": 0.55,
+        "G": 0.495,
+        "B": 0.495,
+        "A": 0.45,
+        "Hex": "73C4BBBB"
+      },
+      "MC_Shade_2": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.3,
+        "Hex": "4CBCBCBC"
+      },
+      "MC_ShadeSmoothness_3": {
+        "R": 0.2,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "7CBCBC"
+      }
+    },
+    "Scalars": {
+      "IrisUVRadius": 0.115,
+      "IrisBorderWidth": 0.038096,
+      "IrisBrightness": 1.5,
+      "IrisRoughness": 0.1,
+      "AOPower": 0.2,
+      "RefractionDepthScale": 1.2,
+      "POMHeightRatio": 0.4,
+      "LimbusDarkScale": 2.45141,
+      "LimbusDarkPower": 7.640534,
+      "PupilScale": 1.0,
+      "PupilShiftX": 0.0,
+      "PupilShiftY": 0.0,
+      "ScleraRoughness": 1.0,
+      "MC_StartIndex": 4.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "bOverride_UseTranslucencyVertexFog": true,
+        "bUseTranslucencyVertexFog": true,
+        "MaterialDecalResponse": "EMaterialDecalResponse::MDR_ColorNormalRoughness",
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_MarvelStylized",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

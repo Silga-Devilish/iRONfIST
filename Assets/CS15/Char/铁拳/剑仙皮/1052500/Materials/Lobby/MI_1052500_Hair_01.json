@@ -1,0 +1,140 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_D.T_1052500_Hair_D",
+    "BaseColor": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_D.T_1052500_Hair_D",
+    "OpacityMask": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_M.T_1052500_Hair_M",
+    "T_1052500_Hair_M": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_M.T_1052500_Hair_M",
+    "PM_Normals": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_N.T_1052500_Hair_N",
+    "Normal": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_N.T_1052500_Hair_N",
+    "AnisotropyBrightness": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_AN.T_1052500_Hair_AN",
+    "T_1052500_Hair_AN": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_AN.T_1052500_Hair_AN",
+    "PM_SpecularMasks": "Marvel/Content/Marvel/Characters/Common/Textures/T_Highlight.T_Highlight",
+    "SpecularShift": "Marvel/Content/Marvel/Characters/Common/Textures/T_Highlight.T_Highlight",
+    "Unique_Hair_Value": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_ID.T_1052500_Hair_ID",
+    "T_1052500_Hair_ID": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_ID.T_1052500_Hair_ID",
+    "ShadowColor(UV1)": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_AO.T_1052500_Hair_AO",
+    "T_1052500_Hair_AO": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_AO.T_1052500_Hair_AO"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "BackRimColor": {
+        "R": 0.0,
+        "G": 0.105556,
+        "B": 0.197917,
+        "A": 0.0,
+        "Hex": "005B7B"
+      },
+      "RimLightDirection": {
+        "R": -1.0,
+        "G": -0.055593,
+        "B": 4.319107,
+        "A": 0.0,
+        "Hex": "0000FF"
+      },
+      "MC_Shade_0": {
+        "R": 0.55,
+        "G": 0.495,
+        "B": 0.495,
+        "A": 0.45,
+        "Hex": "73C4BBBB"
+      },
+      "MC_Shade_1": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.3,
+        "Hex": "4CBCBCBC"
+      },
+      "MC_Shade_2": {
+        "R": 0.2,
+        "G": 0.2,
+        "B": 0.2,
+        "A": 0.0,
+        "Hex": "7C7C7C"
+      },
+      "MC_ShadeSmoothness_3": {
+        "R": 0.2,
+        "G": 0.2,
+        "B": 0.2,
+        "A": 0.0,
+        "Hex": "7C7C7C"
+      },
+      "Tangent": {
+        "R": 0.0,
+        "G": -1.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "TangentA": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.3,
+        "A": 1.0,
+        "Hex": "000095"
+      },
+      "TangentB": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": -0.3,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "VLMTint": {
+        "R": 1.5,
+        "G": 1.5,
+        "B": 1.5,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Anisotropy Direction": -0.9,
+      "ExtraSpecularShift": 0.0,
+      "SpecularShiftPower": 0.136,
+      "Scatter": 0.0,
+      "SpecularLimit": 0.01,
+      "EdgeMaskContrast": 1.0,
+      "EdgeMaskMin": 0.0,
+      "VLMIntensity": 0.1,
+      "NormalIntensity": 0.2,
+      "BackFresnelPower": 4.8,
+      "BackRimRange": 0.288,
+      "RoughnessPower": 0.7,
+      "EdgeRoughnessPower": 1.0,
+      "EdgeRoughnessFresnel": 10.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_UseTranslucencyVertexFog": true,
+        "bUseTranslucencyVertexFog": true,
+        "TranslucencyLightingMode": "ETranslucencyLightingMode::TLM_Surface",
+        "MaterialDecalResponse": "EMaterialDecalResponse::MDR_ColorNormalRoughness",
+        "bOverride_RefractionMethod": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_MarvelStylizedHair",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

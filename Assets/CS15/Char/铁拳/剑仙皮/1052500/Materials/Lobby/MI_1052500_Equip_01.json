@@ -1,0 +1,94 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Equip_01_D.T_1052500_Equip_01_D",
+    "BaseColor": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Equip_01_D.T_1052500_Equip_01_D",
+    "PM_SpecularMasks": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Equip_01_S.T_1052500_Equip_01_S",
+    "ORM": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Equip_01_ORM.T_1052500_Equip_01_ORM",
+    "PM_Normals": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Equip_01_N.T_1052500_Equip_01_N",
+    "Normal": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Equip_01_N.T_1052500_Equip_01_N",
+    "SpecularTexture": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Equip_01_S.T_1052500_Equip_01_S"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "EmissiveColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "ExtraSpecularTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "MC_Shade_0": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.8,
+        "Hex": "CCFFFFFF"
+      },
+      "MC_Shade_1": {
+        "R": 0.45,
+        "G": 0.45,
+        "B": 0.45,
+        "A": 0.5,
+        "Hex": "7FB3B3B3"
+      },
+      "MC_Shade_2": {
+        "R": 0.4,
+        "G": 0.4,
+        "B": 0.4,
+        "A": 0.2,
+        "Hex": "33AAAAAA"
+      },
+      "MC_ShadeSmoothness_3": {
+        "R": 0.2,
+        "G": 0.5,
+        "B": 0.2,
+        "A": 0.0,
+        "Hex": "7CBC7C"
+      }
+    },
+    "Scalars": {
+      "EmissiveStrength": 5.0,
+      "ExtraSpecularRoughness": 0.35,
+      "Metailic": 1.0,
+      "NormalIntensity": 1.0,
+      "BackFresnelPower": 25.0,
+      "BackRimRange": 0.9998,
+      "RoughnessPower": 0.0,
+      "EdgeRoughnessPower": 1.0,
+      "EdgeRoughnessFresnel": 10.0,
+      "MC_StartIndex": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_UseTranslucencyVertexFog": true,
+        "bUseTranslucencyVertexFog": true,
+        "MaterialDecalResponse": "EMaterialDecalResponse::MDR_ColorNormalRoughness",
+        "bOverride_EnableToonOutline": true,
+        "bEnableToonOutline": true,
+        "RefractionMode": "ERefractionMode::RM_IndexOfRefraction",
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_MarvelStylized",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

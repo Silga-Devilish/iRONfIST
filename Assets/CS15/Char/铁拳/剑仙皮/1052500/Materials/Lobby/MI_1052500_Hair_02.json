@@ -1,0 +1,47 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_D.T_1052500_Hair_D",
+    "BaseColor": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_D.T_1052500_Hair_D",
+    "OpacityMask": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_M.T_1052500_Hair_M",
+    "T_1052500_Hair_M": "Marvel/Content/Marvel/Characters/1052/1052500/Textures/T_1052500_Hair_M.T_1052500_Hair_M"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "OpacityMultiplier": 0.9,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_UseTranslucencyVertexFog": true,
+        "bUseTranslucencyVertexFog": true,
+        "MaterialDecalResponse": "EMaterialDecalResponse::MDR_ColorNormalRoughness",
+        "bOverride_RefractionMethod": true,
+        "TwoSided": true,
+        "bOutputTranslucentVelocity": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.0
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

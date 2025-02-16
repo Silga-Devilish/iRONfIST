@@ -1,0 +1,72 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Marvel/Content/Marvel/Characters/Common/Textures/Tooth/T_Common_Tooth_D.T_Common_Tooth_D",
+    "BaseColor": "Marvel/Content/Marvel/Characters/Common/Textures/Tooth/T_Common_Tooth_D.T_Common_Tooth_D",
+    "PM_SpecularMasks": "Marvel/Content/Marvel/Characters/Common/Textures/Tooth/T_Common_Tooth_ORM.T_Common_Tooth_ORM",
+    "ORM": "Marvel/Content/Marvel/Characters/Common/Textures/Tooth/T_Common_Tooth_ORM.T_Common_Tooth_ORM",
+    "PM_Normals": "Marvel/Content/Marvel/Characters/Common/Textures/Tooth/T_Common_Tooth_N.T_Common_Tooth_N",
+    "Normal": "Marvel/Content/Marvel/Characters/Common/Textures/Tooth/T_Common_Tooth_N.T_Common_Tooth_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "MC_Shade_0": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.8,
+        "Hex": "CCFFFFFF"
+      },
+      "MC_Shade_1": {
+        "R": 0.55,
+        "G": 0.495,
+        "B": 0.495,
+        "A": 0.45,
+        "Hex": "73C4BBBB"
+      },
+      "MC_Shade_2": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.3,
+        "Hex": "4CBCBCBC"
+      },
+      "MC_ShadeSmoothness_3": {
+        "R": 0.2,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "7CBCBC"
+      }
+    },
+    "Scalars": {
+      "NormalIntensity": 1.0,
+      "RoughnessPower": 0.161905,
+      "MC_StartIndex": 4.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_UseTranslucencyVertexFog": true,
+        "bUseTranslucencyVertexFog": true,
+        "MaterialDecalResponse": "EMaterialDecalResponse::MDR_ColorNormalRoughness",
+        "bOverride_EnableToonOutline": true,
+        "bEnableToonOutline": true,
+        "bOverride_RefractionMethod": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_MarvelStylized",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
