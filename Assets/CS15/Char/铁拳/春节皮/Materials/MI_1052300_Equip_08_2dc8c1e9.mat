@@ -116,7 +116,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.59999996
     - _GlossyReflections: 1
-    - _Layer1_Offset: 0
+    - _Layer1_Offset: 0.3
     - _Layer2_Offset: 0.5
     - _Metallic: 0
     - _Mode: 0
@@ -150,8 +150,8 @@ Material:
     - _SideLightDir: {r: 1, g: 0, b: -1, a: 0}
     - _SpecColor: {r: 1, g: 0.6773585, b: 0.6773585, a: 1}
     - _Spec_Color: {r: 0.8207547, g: 0.99770194, b: 1, a: 0.6745098}
-    - _TintColor1: {r: 0, g: 0.25780198, b: 0.5849056, a: 0.56078434}
-    - _TintColor2: {r: 0, g: 0.004612122, b: 0.20754719, a: 1}
+    - _TintColor1: {r: 0, g: 0.25780198, b: 0.5849056, a: 0.47058824}
+    - _TintColor2: {r: 0, g: 0.004612122, b: 0.20754719, a: 0.50980395}
     - _TintLayer1: {r: 0, g: 0, b: 0, a: 1}
     - _TintLayer2: {r: 1, g: 1, b: 1, a: 0}
     - _TintLayer3: {r: 0.11698109, g: 0.11698109, b: 0.11698109, a: 1}

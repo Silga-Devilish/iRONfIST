@@ -1417,37 +1417,37 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 110241164}
-    m_Position: {x: 200, y: -420, z: 0}
+    m_Position: {x: 190, y: -320, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110261232}
-    m_Position: {x: -450, y: -100, z: 0}
+    m_Position: {x: -180, y: -110, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110222392}
-    m_Position: {x: -160, y: -40, z: 0}
+    m_Position: {x: 50, y: -110, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110251166}
-    m_Position: {x: 390, y: -190, z: 0}
+    m_Position: {x: 310, y: -140, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110281692}
-    m_Position: {x: 360, y: -310, z: 0}
+    m_Position: {x: 310, y: -250, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110284988}
     m_Position: {x: 70, y: -190, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102000010159268544}
-    m_Position: {x: -70, y: -420, z: 0}
+    m_Position: {x: -10, y: -320, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8805709739460548363}
-    m_Position: {x: -600, y: -200, z: 0}
+    m_Position: {x: -220, y: -190, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -7181717279544538756}
-    m_Position: {x: -450, y: -330, z: 0}
+    m_Position: {x: -180, y: -260, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -3177398805180968307}
-    m_Position: {x: -380, y: 100, z: 0}
+    m_Position: {x: 0, y: -40, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 7137499481930636234}
-    m_Position: {x: -880, y: -200, z: 0}
+    m_Position: {x: -460, y: -190, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -1456,7 +1456,7 @@ AnimatorStateMachine:
     second: []
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: -260, y: 210, z: 0}
-  m_EntryPosition: {x: 90, y: -40, z: 0}
+  m_EntryPosition: {x: 270, y: -60, z: 0}
   m_ExitPosition: {x: 360, y: 140, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 110284988}

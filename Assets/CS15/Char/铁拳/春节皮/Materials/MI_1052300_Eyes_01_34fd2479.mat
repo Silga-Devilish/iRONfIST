@@ -107,11 +107,11 @@ Material:
     - _SpecShininess: 100
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _TintLayer1_Intensity: 2
-    - _TintLayer1_Offset: 0.36
+    - _TintLayer1_Intensity: 1
+    - _TintLayer1_Offset: 0
     - _TintLayer1_Softness: -0.86
     - _TintLayer2_Offset: 0
-    - _TintLayer3_Offset: 0.4
+    - _TintLayer3_Offset: 0.32
     - _TintLayer3_Scale: 4.45
     - _TintLayer3_Softness: 0
     - _UVSec: 0
@@ -119,13 +119,13 @@ Material:
     m_Colors:
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EnvColor: {r: 0, g: 1.4980392, b: 1.3659599, a: 1}
-    - _MainLightColor: {r: 1.0188539, g: 0.91474193, b: 0.82085025, a: 1}
+    - _EnvColor: {r: 0.017459465, g: 0.008223558, b: 0.3962264, a: 1}
+    - _MainLightColor: {r: 1.4142135, g: 1.4142135, b: 1.4142135, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SideLightColor: {r: 2, g: 2, b: 2, a: 1}
+    - _SideLightColor: {r: 2, g: 1.8295784, b: 1.2943395, a: 1}
     - _SideLightDir: {r: 1, g: 0, b: -1, a: 0}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
-    - _TintLayer1: {r: 0, g: 0, b: 0, a: 0.5019608}
+    - _TintLayer1: {r: 0.15263556, g: 0.14827333, b: 0.6603774, a: 0.39215687}
     - _TintLayer2: {r: 1, g: 1, b: 1, a: 0}
-    - _TintLayer3: {r: 0.11698109, g: 0.11698109, b: 0.11698109, a: 1}
+    - _TintLayer3: {r: 0.07071419, g: 0.03379848, b: 0.381132, a: 0.53333336}
   m_BuildTextureStacks: []

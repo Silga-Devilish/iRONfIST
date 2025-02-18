@@ -139,8 +139,8 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.59999996
     - _GlossyReflections: 1
-    - _Layer1_Offset: 0
-    - _Layer2_Offset: 0.15
+    - _Layer1_Offset: -0.15
+    - _Layer2_Offset: 0.32
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -166,15 +166,15 @@ Material:
     m_Colors:
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EnvColor: {r: 0.30447128, g: 0.5054069, b: 0.5622641, a: 1}
-    - _MainLightColor: {r: 1.7207954, g: 1.7207954, b: 1.7207954, a: 1}
+    - _EnvColor: {r: 0.3288651, g: 0.26449978, b: 0.7660377, a: 1}
+    - _MainLightColor: {r: 1.6809682, g: 1.6825976, b: 1.6905372, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _SideLightColor: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 1}
     - _SideLightDir: {r: 1, g: 0, b: -1, a: 0}
     - _SpecColor: {r: 1, g: 0.6773585, b: 0.6773585, a: 1}
-    - _Spec_Color: {r: 0.8207547, g: 0.99770194, b: 1, a: 0.6745098}
-    - _TintColor1: {r: 0, g: 0.44075823, b: 1, a: 0.49411765}
-    - _TintColor2: {r: 0, g: 0.0036568556, b: 0.17735851, a: 0.6666667}
+    - _Spec_Color: {r: 0.9651294, g: 1, b: 0.6773585, a: 0.6745098}
+    - _TintColor1: {r: 0.23732996, g: 0.2865693, b: 0.4641509, a: 0.44313726}
+    - _TintColor2: {r: 0, g: 0.0036568556, b: 0.17735851, a: 0.4117647}
     - _TintLayer1: {r: 0, g: 0, b: 0, a: 1}
     - _TintLayer2: {r: 1, g: 1, b: 1, a: 0}
     - _TintLayer3: {r: 0.11698109, g: 0.11698109, b: 0.11698109, a: 1}

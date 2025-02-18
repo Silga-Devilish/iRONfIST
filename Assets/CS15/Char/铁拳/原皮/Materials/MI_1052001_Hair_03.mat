@@ -166,14 +166,14 @@ Material:
     m_Colors:
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EnvColor: {r: 0.30447128, g: 0.5054069, b: 0.5622641, a: 1}
+    - _EnvColor: {r: 0.30588236, g: 0.36148623, b: 0.56078434, a: 1}
     - _MainLightColor: {r: 2.297397, g: 2.297397, b: 2.297397, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _SideLightColor: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 1}
     - _SideLightDir: {r: 1, g: 0, b: -1, a: 0}
     - _SpecColor: {r: 1, g: 0.6773585, b: 0.6773585, a: 1}
-    - _Spec_Color: {r: 0.8207547, g: 0.99770194, b: 1, a: 0.6745098}
-    - _TintColor1: {r: 0, g: 0.36570486, b: 0.827451, a: 0.6509804}
+    - _Spec_Color: {r: 1, g: 0.8551689, b: 0.4584905, a: 0.7254902}
+    - _TintColor1: {r: 0, g: 0.081622496, b: 0.827451, a: 0.6509804}
     - _TintColor2: {r: 0, g: 0.0036568556, b: 0.17735851, a: 0.6666667}
     - _TintLayer1: {r: 0, g: 0, b: 0, a: 1}
     - _TintLayer2: {r: 1, g: 1, b: 1, a: 0}

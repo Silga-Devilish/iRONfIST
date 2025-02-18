@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Planar
-  m_Shader: {fileID: 4800000, guid: a3b70666ffc26144cbdf851ef70939a1, type: 3}
+  m_Shader: {fileID: 4800000, guid: 0fe4280e2957af04f9da1cc6310895f8, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -16,7 +16,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3000
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_LockedProperties: 
@@ -73,10 +73,36 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _ReflectionTex:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 0}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UnderWaterTex:
+        m_Texture: {fileID: 2800000, guid: bd4e544098e89bb48b31ebf4aec747ec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterNormnal:
+        m_Texture: {fileID: 2800000, guid: e29df72e292af63489146e06dfc79ae9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterNormnal1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _BlinkIntensity: 14
+    - _BlinkNoise: 0.24
+    - _BlinkSpeed: 0.55
+    - _BlinkThreashold: 0.9
+    - _BlinkThreashold1: 1
+    - _BlinkTilling: 8
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -90,14 +116,26 @@ Material:
     - _Metallic: 0
     - _MirrorNoise: 0
     - _Mode: 0
+    - _NoisyIntensity: 0.29
+    - _NormalIntensity: 1
+    - _NormalTilling: 3.85
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _ParallaxDepth: 0.2
     - _SmoothnessTextureChannel: 0
+    - _SpecEnd: 43.4
+    - _SpecSmoothness: 0.01
+    - _SpecStart: 0
+    - _SpecTintIntensity: 1.2
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
+    - _UnderWaterTilling: 4
+    - _UnderwaterScale: 3
+    - _WaterDepth: -2
+    - _WaterSpeed: 1
     - _ZWrite: 1
+    - __dirty: 0
     - dis01: 1
     - dis02: 10
     - ground_noise: 1
@@ -111,10 +149,12 @@ Material:
     - opaqueness: 0.9
     - shadow_darkness: 0.8
     m_Colors:
+    - _BlinkColor: {r: 1, g: 0.93850285, b: 0.60188675, a: 0}
     - _Color: {r: 0.07843138, g: 0.3921569, b: 0.7843137, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FogColor: {r: 0, g: 0, b: 0, a: 1}
     - _MirrorUVBias: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecTint: {r: 0.3433962, g: 0.11328535, b: 0, a: 0}
     - light_color: {r: 0.84313726, g: 0.7254902, b: 0.36078432, a: 1}
     - light_dir: {r: 0.5, g: 0.6, b: 0.2, a: 0}
     - shallow_color: {r: 0.64705884, g: 0.64705884, b: 0.64705884, a: 1}
